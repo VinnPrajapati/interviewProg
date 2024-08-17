@@ -1,5 +1,7 @@
 <?php
-// abstract class is a class that cannot be instantiated directly. It serves as a blueprint for other classes to inherit from. Abstract classes can contain both abstract methods (methods without a body) and concrete methods (methods with a body). However, classes containing at least one abstract method must also be declared as abstract.
+// abstract class is a class that cannot be instantiated directly. It serves as a blueprint for other classes to inherit from. 
+Abstract classes can contain both abstract methods (methods without a body) and concrete methods (methods with a body). 
+However, classes containing at least one abstract method must also be declared as abstract.
 
 // Define an abstract class
 abstract class Shape
