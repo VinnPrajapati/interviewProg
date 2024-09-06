@@ -1,8 +1,8 @@
 <?php
 
 // the $this keyword refers to the current object instance within a class context. 
-It is used to access properties and methods of the object itself. 
-The $this keyword can only be used inside class methods and is not available outside of the class scope.
+// It is used to access properties and methods of the object itself. 
+// The $this keyword can only be used inside class methods and is not available outside of the class scope.
 
 class MyClass
 {
