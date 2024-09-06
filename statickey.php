@@ -1,6 +1,7 @@
 <?php
 
-// the static keyword is used to declare class properties and methods that belong to the class itself rather than to instances of the class. This means that the property or method can be accessed without creating an instance of the class.
+// the static keyword is used to declare class properties and methods that belong to the class itself rather than to 
+// instances of the class. This means that the property or method can be accessed without creating an instance of the class.
 
 class Counter
 {
