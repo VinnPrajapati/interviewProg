@@ -1,8 +1,13 @@
 <?php
 
-// Polymorphism is typically achieved through method overriding, where a subclass provides its own implementation of a method that is already defined in its parent class. When a method is called on an object, PHP checks if the method is defined in the object's class. If it is not found, PHP traverses up the class hierarchy until it finds the method definition or reaches the top-level parent class.
+// Polymorphism is typically achieved through method overriding, where a subclass provides its own implementation of a method
+// that is already defined in its parent class. When a method is called on an object, PHP checks if the method is defined 
+// in the object's class. If it is not found, PHP traverses up the class hierarchy until it finds the method definition or reaches 
+// the top-level parent class.
 
-// Inheritance and method overriding are used to achieve runtime polymorphism. It allows a subclass to provide a specific implementation of a method that is already defined in its superclass. The appropriate method to be executed is determined at runtime based on the actual type of the object. with same name and parameter
+// Inheritance and method overriding are used to achieve runtime polymorphism. It allows a subclass to provide a specific 
+// implementation of a method that is already defined in its superclass. The appropriate method to be executed is determined at runtime 
+// based on the actual type of the object. with same name and parameter
 
 
 // Define a parent class
