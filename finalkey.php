@@ -1,5 +1,6 @@
 <?php
-// the final keyword is used to prevent inheritance or method overriding. When a class is marked as final, it cannot be extended by any other class, and when a method is marked as final, it cannot be overridden by subclasses.
+// the final keyword is used to prevent inheritance or method overriding. When a class is marked as final, 
+// it cannot be extended by any other class, and when a method is marked as final, it cannot be overridden by subclasses.
 
 class ParentClass
 {
