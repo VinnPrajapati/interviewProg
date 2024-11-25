@@ -3,7 +3,7 @@
 // Abstract classes can contain both abstract methods (methods without a body) and concrete methods (methods with a body). 
 // However, classes containing at least one abstract method must also be declared as abstract.
 // Abstraction is the concept of exposing only the essential details to the user while hiding the internal implementation details. 
-    In other words, abstraction focuses on what an object does, rather than how it does it.
+// In other words, abstraction focuses on what an object does, rather than how it does it.
 
 // Define an abstract class
 abstract class Shape
