@@ -1,6 +1,6 @@
 <?php
 //Encapsulation bundles data and methods within a class, providing a protective barrier around the internal workings of an object. 
-Encapsulation promotes data hiding, preventing direct access to class properties from outside the class.
+// Encapsulation promotes data hiding, preventing direct access to class properties from outside the class.
 
 // Define a class named Car
 class Car
